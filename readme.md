@@ -161,17 +161,8 @@ torsocks pip3 install ...
 - [x] Test command to make a **one file** standalone executable
 - [x] Fix reading QR from desktop webcam
  
-
-
-## :coffee: Buy me a Coffe
-
-⚡ enteropositivo@getalby.com
-
-## Credit (SeedSigner Emulator)
-
-Dev – [@EnteroPositivo](https://github.com/enteropositivo/)
-
-## Contact
-
-Follow me at Github – [@RK-Jogani](https://github.com/RK-Jogani)  
+## Credits
+– [@RK-Jogani](https://github.com/RK-Jogani)
+– [@EnteroPositivo](https://github.com/enteropositivo/) (SeedSigner Emulator)
+   
 
