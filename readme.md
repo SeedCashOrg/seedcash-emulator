@@ -168,9 +168,10 @@ torsocks pip3 install ...
 ⚡ enteropositivo@getalby.com
 
 ## Credit (SeedSigner Emulator)
-    [@EnteroPositivo](https://github.com/enteropositivo/)
+
+Dev – [@EnteroPositivo](https://github.com/enteropositivo/)
 
 ## Contact
 
-Follow me at Twitter – [@EnteroPositivo](https://twitter.com/enteropositivo)  
+Follow me at Github – [@RK-Jogani](https://github.com/RK-Jogani)  
 
