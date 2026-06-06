@@ -162,7 +162,7 @@ torsocks pip3 install ...
 - [x] Fix reading QR from desktop webcam
  
 ## Credits
-– [@RK-Jogani](https://github.com/RK-Jogani)
-– [@EnteroPositivo](https://github.com/enteropositivo/) (SeedSigner Emulator)
+- [@RK-Jogani](https://github.com/RK-Jogani)
+- [@EnteroPositivo](https://github.com/enteropositivo/) (SeedSigner Emulator)
    
 
